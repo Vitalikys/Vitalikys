@@ -1,10 +1,12 @@
 ### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvitalikys%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=Views+Since+Oct+2023&edge_flat=false)](https://hits.seeyoufarm.com)
 
+- 🚀 Exploring the world of DevOps tools and practices
+- 🤝 Open to collaborating on exciting projects
+- 💼 Actively seeking new career opportunities in DevOps and IT
+- 🌐 Building a brighter tech future one step at a time
 <!--
 **Vitalikys/Vitalikys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
